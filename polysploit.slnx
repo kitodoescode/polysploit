@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="polysploit.vcxproj" Id="52720da8-3542-4ae3-885a-02f54e7d28fd" />
+</Solution>
